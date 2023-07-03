@@ -31,9 +31,9 @@ I assure you that if you accomplish this, you will feel proud of yourself and be
 4. Create a new folder with the name of the thing you want to learn
 5. Add a README.md file to that folder
 6. Write your journey in that file, including your name, the date you started, and the date you finished
-7. Commit and push your changes
-8. Create a pull request
-9. Wait for it to be merged
+7. Add your name to the Contributors section in the README.md file
+8. Commit and push your changes. 
+9. Create a pull request and wait for it to be merged
 10. Share your journey with the world
 
 ## How to write your journey
@@ -64,15 +64,6 @@ You can write your journey in any way you want, but I recommend you to use the f
 ### What I learned
 ### What I will do tomorrow
 ```
-
-## License
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 
 ## Finally
