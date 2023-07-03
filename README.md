@@ -44,22 +44,22 @@ You can write your journey in any way you want, but I recommend you to use the f
 ## End date
 
 # Thing you want to learn
-## Day 1: Start date
+## Day 1: Time spent
 ### What I did today. Share your thoughts, and the resources you used
 ### What I learned. Be reflective, and share your thoughts
 ### What I will do tomorrow. What do you expect to learn/solve?
-## Day 2: Start date
+## Day 2: Time spent
 ### What I did today
 ### What I learned
 ### What I will do tomorrow
-## Day 3: Start date
+## Day 3: Time spent
 ### What I did today
 ### What I learned
 ### What I will do tomorrow
 
 ...
 
-## Day N: Start date
+## Day N: Time spent
 ### What I did today
 ### What I learned
 ### What I will do tomorrow
