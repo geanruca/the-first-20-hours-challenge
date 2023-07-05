@@ -40,13 +40,11 @@ I assure you that if you accomplish this, you will feel proud of yourself and be
 You can write your journey in any way you want, but I recommend you to use the following template:
 ```markdown
 # Your name
-## Start date
-## End date
 
-# Thing you want to learn
+# The first 20 hours of -Thing you want to learn-
 ## Day 1: Time spent
-### What I did today. Share your thoughts, and the resources you used
-### What I learned. Be reflective, and share your thoughts
+### What I did today. Share your thoughts and the resources you used
+### What I learned. Be reflective. Teach a child to try
 ### What I will do tomorrow. What do you expect to learn/solve?
 ## Day 2: Time spent
 ### What I did today
